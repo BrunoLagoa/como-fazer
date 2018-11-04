@@ -4,8 +4,6 @@
 
 Sistema simples feito com JavaScript, Boostrap, Axios, firebase
 
-<hr>
-
 ## Como Utilizar:
 
 1. Na pasta principal, execute o comando para instalar as dependências
